@@ -103,7 +103,7 @@
           {{ successMessage }}
         </p>
     </div>
-    <img src="../assets/images/texture.svg" alt="" class="absolute top-0 right-0">
+    <img src="@/assets/images/texture.svg" alt="" class="absolute top-0 right-0">
   </div>
 </template>
 

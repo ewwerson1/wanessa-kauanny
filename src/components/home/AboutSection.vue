@@ -5,7 +5,7 @@
 
             <!-- FOTO (agora some no mobile) -->
             <div class="hidden md:block">
-                <img src="../../assets/images/sobre.png" alt="Foto da psicóloga" class="rounded-2xl w-[300px]">
+                <img src="@/assets/images/sobre.png" alt="Foto da psicóloga" class="rounded-2xl w-[300px]">
             </div>
 
             <!-- TEXTO (agora sempre text-start) -->
@@ -23,7 +23,7 @@
                     pessoal, estou aqui para caminhar ao seu lado.
                 </p>
 
-                <img src="../../assets/images/aspas.png"
+                <img src="@/assets/images/aspas.png"
                     alt="aspas"
                     class="absolute top-[-120px] right-[-0px] w-36 opacity-40">
             </div>

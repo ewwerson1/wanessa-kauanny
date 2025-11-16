@@ -36,7 +36,7 @@
       <!-- IMAGEM (oculta no mobile) -->
       <div class="relative hidden md:flex justify-center">
         <img
-          src="../../assets/images/bg.png"
+          src="@/assets/images/bg.png"
           alt=""
           class="z-10 w-[400px] rounded-xl"
         />

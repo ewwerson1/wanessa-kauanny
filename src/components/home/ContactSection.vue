@@ -46,7 +46,7 @@
      
     <div class=" gap-8 max-w-[1180px] mx-auto mb-6">
       <div class="bg-white cursor-pointer p-8 rounded-2xl flex flex-col hover:bg items-center shadow-lg border border-purple-100 text-center"> 
-        <img src="../../assets/images/atendimento-online.png" alt="" class="w-46"> 
+        <img src="@/assets/images/atendimento-online.png" alt="" class="w-46"> 
         <h3 class="text-xl font-semibold text-gray-800 mt-1">Atendimento Online</h3>
         <p class="text-gray-600 mt-2">Conecte-se com segurança e conforto.</p>
       </div>
@@ -56,17 +56,17 @@
         <div class=" space-y-4">
 
           <div class="flex items-center bg-white p-4 rounded-xl shadow border border-purple-100">
-            <img src="../../assets/icons/tel.svg" alt="Ícone de telefone" class="w-6 mr-3">
+            <img src="@/assets/icons/tel.svg" alt="Ícone de telefone" class="w-6 mr-3">
             <p class="text-gray-800 text-lg">(81) 9 8555-3709</p>
           </div>
 
           <div class="flex items-center bg-white p-4 rounded-xl shadow border border-purple-100">
-            <img src="../../assets/icons/email.svg" alt="Ícone de email" class="w-6 mr-3">
+            <img src="@/assets/icons/email.svg" alt="Ícone de email" class="w-6 mr-3">
             <p class="text-gray-800 text-lg">psi.wanessakauanny@gmail.com</p>
           </div>
 
           <div class="flex items-center bg-white p-4 rounded-xl shadow border border-purple-100">
-             <img src="../../assets/icons/loc.svg" alt="Ícone de localização" class="w-5 mr-4">
+             <img src="@/assets/icons/loc.svg" alt="Ícone de localização" class="w-5 mr-4">
             <p class="text-gray-800 text-lg">Atendimento 100% Online</p>
           </div>
 
