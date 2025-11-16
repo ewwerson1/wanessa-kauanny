@@ -1,5 +1,5 @@
 <template>
-  <div class="max-w-[1180px] py-12 mx-auto general px-4">
+  <section id="servicos" class="max-w-[1180px] py-12 mx-auto general px-4">
     <h1 class="text-gray-700 text-4xl text-center font-bold">
       Nossos <span class="text-violet-800/70">serviços</span> de atendimento
     </h1>
@@ -17,7 +17,7 @@
         <p class="text-gray-600">{{ item.desc }}</p>
       </div>
     </div>
-  </div>
+  </section>
 </template>
 
 <script setup>

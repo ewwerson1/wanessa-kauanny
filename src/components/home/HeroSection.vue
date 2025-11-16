@@ -1,5 +1,5 @@
 <template>
-  <div class="mx-auto max-w-[1180px] z-20 px-4 py-28 general textured-bg rounded-xl">
+  <section id="inicio" class="mx-auto max-w-[1180px] z-20 px-4 py-28 general textured-bg rounded-xl">
     <div class="rounded-xl flex flex-col md:flex-row items-center justify-between gap-12 p-4 md:p-8 w-full">
 
       <!-- TEXTOS -->
@@ -18,7 +18,7 @@
 
         <div class="mt-8 flex flex-col sm:flex-row gap-3">
           <router-link
-            to=""
+            to="marcar-consulta"
             class="py-4 w-full sm:w-60 text-center bg-violet-800/80 text-white"
           >
             Agende sua Consulta
@@ -54,7 +54,7 @@
 
       </div>
     </div>
-  </div>
+  </section>
 </template>
 <style scoped>
   .general {

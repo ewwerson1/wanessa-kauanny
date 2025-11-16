@@ -1,6 +1,6 @@
 <template>
-    <div class="bg-gray-50 general bg-texture">
-        <div class="mx-auto max-w-[1180px] px-4 md:px-12 md:pt-6 py-18 md:py-12 md:py-0 flex items-center">
+    <section id="sobre" class="bg-gray-50 general bg-texture">
+        <div class="mx-auto max-w-[1180px] px-4 md:px-12 md:pt-6 py-18 md:py-0 md:py-0 flex items-center">
             <div class="hidden md:block">
                 <img src="@/assets/images/sobre.PNG" alt="Foto da psicóloga" class="rounded-2xl w-[300px]">
             </div>
@@ -23,7 +23,7 @@
             </div>
 
         </div>
-    </div>
+    </section>
 </template>
 
 <style scoped>

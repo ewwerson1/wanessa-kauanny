@@ -10,8 +10,19 @@ const router = createRouter({
       component: HomeView,
     },
     {
-      path: '/agendar-consulta',
-      name: 'agendar-consulta',
+      path: '/login',
+      name: 'login',
+      component: ()=>import('../views/LoginUser.vue'),
+      meta: { hideFooter: true }
+    },
+    {
+      path: '/cadastrar',
+      name: 'cadastrar',
+      component: ()=>import('../views/SignUp.vue')
+    },
+    {
+      path: '/marcar-consulta',
+      name: 'marcar-consulta',
       component: ()=>import('../views/CheckUp.vue')
     }
   ],
