@@ -1,7 +1,7 @@
 <template>
     <div class="bg-gray-50 general bg-texture">
         
-        <div class="mx-auto max-w-[1180px] px-12 md:pt-6 py-12 md:py-0 flex items-center">
+        <div class="mx-auto max-w-[1180px] px-4 md:px-12 md:pt-6 py-12 md:py-0 flex items-center">
 
             <!-- FOTO (agora some no mobile) -->
             <div class="hidden md:block">
